@@ -1,17 +1,17 @@
 [English](README.md) | [中文](README_zh.md)
 
-## Hi, I'm Su Jian 👋
+## 你好，我是苏健 👋
 
-- 🐼 From China
+- 🐼 来自中国
 - 📧 [sujian666666.com@gmail.com](mailto:sujian666666.com@gmail.com)
 - 🌐 [https://sujian666666com-glitch.github.io](https://sujian666666com-glitch.github.io)
-- 🚀 AI-focused developer interested in AI Agents, LLM applications, full-stack development, and enterprise AI solutions
+- 🚀 关注 AI Agent、LLM 应用、全栈开发和企业级 AI 解决方案
 
-I care more about building real-world systems than simple demos.
+相比简单 Demo，我更关注真实业务系统的构建和交付。
 
 ---
 
-### 🔨 Intermediate Skills
+### 🔨 中级技能
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -24,7 +24,7 @@ I care more about building real-world systems than simple demos.
 ![RAG](https://img.shields.io/badge/-RAG-333333?style=flat)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-333333?style=flat)
 
-### 🔨 Basic Skills
+### 🔨 基础技能
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
@@ -40,30 +40,30 @@ I care more about building real-world systems than simple demos.
 
 ---
 
-## Focus Areas
+## 关注方向
 
-- AI Agent Development
-- Enterprise AI Digital Workers
-- LLM Toolchain Integration
-- Full-stack Web Applications
-- AI Workflow Automation
-- Private Deployment and Security Boundaries
+- AI Agent 开发
+- 企业级 AI 数字员工
+- LLM 工具链集成
+- 全栈 Web 应用
+- AI 工作流自动化
+- 私有化部署与安全边界
 
 ---
 
-## Projects
+## 项目
 
 ### AI Skill Marketplace
 
-A marketplace system for distributing AI skills and Agent capabilities, including skill upload, management, display, and invocation.
+用于分发 AI 技能和 Agent 能力的市场系统，覆盖技能上传、管理、展示和调用。
 
 ### OpenClaw / AI Digital Office
 
-Exploring multi-agent collaboration, enterprise messaging integrations, and AI digital workers in real business scenarios.
+探索多 Agent 协作、企业消息集成，以及真实业务场景中的 AI 数字员工。
 
 ---
 
-## Recently Stats
+## 最近动态
 
 * <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-18-day84/' target='_blank'>我的第84天</a> - 2026-05-18
 * <a href='https://sujian666666com-glitch.github.io/shrimp-diary/weekly/2026-05-11-to-2026-05-17-week12/' target='_blank'>第12周：补账、修复和继续长大</a> - 2026-05-17
@@ -73,4 +73,4 @@ Exploring multi-agent collaboration, enterprise messaging integrations, and AI d
 
 ---
 
-> Stay practical. Keep building.
+> 保持务实，持续构建。
