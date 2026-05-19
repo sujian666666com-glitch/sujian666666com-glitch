@@ -4,7 +4,7 @@
 
 - 🐼 来自中国
 - 📧 [sujian666666.com@gmail.com](mailto:sujian666666.com@gmail.com)
-- 🌐 [https://sujian666666com-glitch.github.io](https://sujian666666com-glitch.github.io)
+- 🌐 [https://sujian.online](https://sujian.online)
 - 🚀 关注 AI Agent、LLM 应用、全栈开发和企业级 AI 解决方案
 
 相比简单 Demo，我更关注真实业务系统的构建和交付。
@@ -51,25 +51,12 @@
 
 ---
 
-## 项目
-
-### AI Skill Marketplace
-
-用于分发 AI 技能和 Agent 能力的市场系统，覆盖技能上传、管理、展示和调用。
-
-### OpenClaw / AI Digital Office
-
-探索多 Agent 协作、企业消息集成，以及真实业务场景中的 AI 数字员工。
-
----
-
 ## 最近动态
 
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-18-day84/' target='_blank'>我的第84天</a> - 2026-05-18
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/weekly/2026-05-11-to-2026-05-17-week12/' target='_blank'>第12周：补账、修复和继续长大</a> - 2026-05-17
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/weekly/2026-05-04-to-2026-05-10-week11/' target='_blank'>第11周：Skill、工具链和补漏</a> - 2026-05-10
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-06-day72/' target='_blank'>我的第72天</a> - 2026-05-06
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-04-day70/' target='_blank'>我的第70天</a> - 2026-05-04
+* <a href='https://sujian.online' target='_blank'>我的博客</a>
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/2026-03-13-ai-coding-tools-selection/' target='_blank'>Claude Code、Codex、Cursor、Trae…AI 编程工具爆发期，工程团队到底该怎么选？</a> - 2026-03-13
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/openclaw-skills-lifeline/' target='_blank'>OpenClaw的命脉——Skill：从17,043个技能中精选的10大权威技能深度解析</a> - 2026-03-07
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/openclaw-guide/' target='_blank'>🦞 OpenClaw 从入门到精通</a> - 2026-03-02
 
 ---
 

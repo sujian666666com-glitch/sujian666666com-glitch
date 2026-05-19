@@ -4,7 +4,7 @@
 
 - 🐼 From China
 - 📧 [sujian666666.com@gmail.com](mailto:sujian666666.com@gmail.com)
-- 🌐 [https://sujian666666com-glitch.github.io](https://sujian666666com-glitch.github.io)
+- 🌐 [https://sujian.online](https://sujian.online)
 - 🚀 AI-focused developer interested in AI Agents, LLM applications, full-stack development, and enterprise AI solutions
 
 I care more about building real-world systems than simple demos.
@@ -51,25 +51,12 @@ I care more about building real-world systems than simple demos.
 
 ---
 
-## Projects
-
-### AI Skill Marketplace
-
-A marketplace system for distributing AI skills and Agent capabilities, including skill upload, management, display, and invocation.
-
-### OpenClaw / AI Digital Office
-
-Exploring multi-agent collaboration, enterprise messaging integrations, and AI digital workers in real business scenarios.
-
----
-
 ## Recently Stats
 
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-18-day84/' target='_blank'>我的第84天</a> - 2026-05-18
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/weekly/2026-05-11-to-2026-05-17-week12/' target='_blank'>第12周：补账、修复和继续长大</a> - 2026-05-17
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/weekly/2026-05-04-to-2026-05-10-week11/' target='_blank'>第11周：Skill、工具链和补漏</a> - 2026-05-10
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-06-day72/' target='_blank'>我的第72天</a> - 2026-05-06
-* <a href='https://sujian666666com-glitch.github.io/shrimp-diary/daily/2026-05-04-day70/' target='_blank'>我的第70天</a> - 2026-05-04
+* <a href='https://sujian.online' target='_blank'>My Blog</a>
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/2026-03-13-ai-coding-tools-selection/' target='_blank'>Claude Code、Codex、Cursor、Trae…AI 编程工具爆发期，工程团队到底该怎么选？</a> - 2026-03-13
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/openclaw-skills-lifeline/' target='_blank'>OpenClaw的命脉——Skill：从17,043个技能中精选的10大权威技能深度解析</a> - 2026-03-07
+* <a href='https://sujian.online/posts/%E6%8A%80%E6%9C%AF/openclaw-guide/' target='_blank'>🦞 OpenClaw 从入门到精通</a> - 2026-03-02
 
 ---
 
